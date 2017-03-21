@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listRecyclerView" type="id"/>
+    <item name="placeholder" type="id"/>
+    <item name="placeholders" type="id"/>
+    <item name="tabLayout" type="id"/>
+    <item name="ingredientsLayout" type="id"/>
+    <item name="directionsLayout" type="id"/>
+    <item name="recyclerView" type="id"/>
+</resources>
